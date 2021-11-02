@@ -1,5 +1,5 @@
 ### Hi there! I'm Sammy.
-I am currently an MPhil student at the <a href="https://hkust.edu.hk/home">Hong Kong University of Science and Technology</a>. My focus is solving inverse problems using statistical and deep learning techniques. I am currently working on Physics Informed Neural Networks to solve Inverse Scattering problems in the context of indoor imaging using ambient Wi-Fi waves.
+I am an MPhil student at the <a href="https://hkust.edu.hk/home">Hong Kong University of Science and Technology</a>. My focus is solving inverse problems using statistical and deep learning techniques. I am currently working on Physics Informed Neural Networks to solve Inverse Scattering problems in the context of indoor imaging using ambient Wi-Fi waves.
 
 More about me and my work here:
 &nbsp;
