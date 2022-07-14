@@ -1,5 +1,5 @@
 ### Hi there! I'm Sammy.
-I am an MPhil student at the <a href="https://hkust.edu.hk/home">Hong Kong University of Science and Technology</a> supervised by <a href="https://eermurch.home.ece.ust.hk/">Prof. Ross Murch</a>. My focus is solving inverse problems using statistical and deep learning techniques. I am currently working on solving the Inverse Scattering problem using optimization algorithms with deep priors.
+I am an MPhil student at the <a href="https://hkust.edu.hk/home">Hong Kong University of Science and Technology</a>. My focus is solving electromagnetic inverse scattering problems using statistical and deep learning techniques.
 
 More about me and my work here:
 &nbsp;
